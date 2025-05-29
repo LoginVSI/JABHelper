@@ -1,0 +1,3 @@
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.prod.index\JavaUiCoords\bin\Release\net8.0\win-x64\publish\JavaUiCoords.dll
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.prod.index\JavaUiCoords\bin\Release\net8.0\win-x64\publish\JavaUiCoords.pdb
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.prod.index\JavaUiCoords\bin\Release\net8.0\win-x64\publish\JabBridge.pdb

@@ -1,0 +1,11 @@
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.dev\JavaUiCoords\bin\Release\net8.0\JavaUiCoords.deps.json
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.dev\JavaUiCoords\bin\Release\net8.0\JavaUiCoords.dll
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.dev\JavaUiCoords\bin\Release\net8.0\JavaUiCoords.pdb
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.dev\JavaUiCoords\obj\Release\net8.0\JavaUiCoords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.dev\JavaUiCoords\obj\Release\net8.0\JavaUiCoords.AssemblyInfoInputs.cache
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.dev\JavaUiCoords\obj\Release\net8.0\JavaUiCoords.AssemblyInfo.cs
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.dev\JavaUiCoords\obj\Release\net8.0\JavaUiCoords.csproj.CoreCompileInputs.cache
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.dev\JavaUiCoords\obj\Release\net8.0\JavaUiCoords.dll
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.dev\JavaUiCoords\obj\Release\net8.0\refint\JavaUiCoords.dll
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.dev\JavaUiCoords\obj\Release\net8.0\JavaUiCoords.pdb
+C:\Users\nburt\Desktop\DT POC\JabDumpConsole\JabDumpConsole.dev\JavaUiCoords\obj\Release\net8.0\ref\JavaUiCoords.dll

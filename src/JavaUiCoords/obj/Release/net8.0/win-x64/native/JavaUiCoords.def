@@ -1,0 +1,9 @@
+EXPORTS
+   DotNetRuntimeDebugHeader DATA
+   GetControlCenterX
+   GetControlCenterY
+   GetControlCenter
+   FreeString
+   DumpAllControls
+   FindControlIndexByName
+   GetControlCenterByNameAndOccurrence

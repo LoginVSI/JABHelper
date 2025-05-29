@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Link in interop code -->
+    <Compile Include="..\JabApi.cs">
+      <Link>JabApi.cs</Link>
+    </Compile>
+    <Compile Include="..\JabHelpers.cs">
+      <Link>JabHelpers.cs</Link>
+    </Compile>
+
+  </ItemGroup>
+</Project>
