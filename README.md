@@ -32,3 +32,5 @@ The bottom of the script declares P/Invoke signatures for the native JavaUiCoord
   public static extern int FindControlIndexByName(string role, string nameSub);
 - [DllImport("JavaUiCoords.dll", CallingConvention = CallingConvention.Cdecl, CharSet = CharSet.Unicode)]
   public static extern IntPtr GetControlCenterByNameAndOccurrence(string role, string nameSub, int occurrence);
+
+  The JabApi and JabHelpers by jdog3 were foundational for this project - jdog3's JAB .NET sample can be found here: https://github.com/jdog3/JavaAccessBridge.Net-Sample/tree/master
